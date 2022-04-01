@@ -9,12 +9,13 @@ const chalk = require('chalk')
 
 // Website Api
 global.APIs = {
-	riykey: 'https://zenzapi.xyz',
+	alfa: 'https://api-alphabot.herokuapp.com',
 }
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'Your Key', // masukin apikey disini
+	'https://api-alphabot.herokuapp.com': 'Alphabot',
+
 }
 
 // Owner
