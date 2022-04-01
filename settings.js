@@ -18,24 +18,37 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6281575886399','6281575886399','6281575886399']
-global.ownernomer = '6281575886399'
-global.premium = ['6281575886399']
-global.ownername = 'Keyol Keren'
-global.botname = 'Keyolbot-Md'
-global.footer = 'Keyolbot-Md'
-global.email = 'selawikwok@gmail.com'
-global.ig = 'https://instagram.com/shelaaa817'
-global.region = 'Planet China'
+global.owner = ['6285692261162','6285692261162','6285692261162']
+global.ownernomer = '6285692261162'
+global.premium = ['6285692261162']
+global.ownername = 'Partha'
+global.botname = 'KRiZbot-Md'
+global.footer = 'KRiZbot-Md'
+global.email = 'arizalss120@gmail.com'
+global.ig = 'https://instagram.com/partha-wdjy'
+global.region = 'Republik jomblo'
 
 // Keperluan buttons
-global.myweb = 'https://api-riych.herokuapp.com/'
+global.myweb = 'https://bit.ly/partha-wdjy/'
 global.sc = 'https://github.com/Keyols/Keyolbot-Md'
 
 // Wm
-global.packname = 'Keyolbot-Md'
-global.author = 'WhatsApp Bot Multi-Device'
+global.packname = 'KRizbot-Md'
+global.author = 'By Partha'
 
+
+
+
+
+
+
+
+
+
+
+
+
+/n/n/n/
 // Thumb & Image random
 global.thumb = fs.readFileSync('./image/keyol.jpg')
 global.pp_video = fs.readFileSync('./image/keyol.mp4')
