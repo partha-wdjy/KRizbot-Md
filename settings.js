@@ -49,7 +49,7 @@ global.author = 'By Partha'
 
 
 
-/n/n/n
+/n/
 // Thumb & Image random
 global.thumb = fs.readFileSync('./image/keyol.jpg')
 global.pp_video = fs.readFileSync('./image/keyol.mp4')
