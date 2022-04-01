@@ -30,7 +30,7 @@ global.region = 'Republik jomblo'
 
 // Keperluan buttons
 global.myweb = 'https://bit.ly/partha-wdjy/'
-global.sc = 'https://github.com/Keyols/Keyolbot-Md'
+global.sc = 'https://github.com/partha-wdjy/KRizbot-Md'
 
 // Wm
 global.packname = 'KRizbot-Md'
