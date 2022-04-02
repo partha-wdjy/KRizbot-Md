@@ -36,22 +36,23 @@ global.sc = 'https://github.com/partha-wdjy/KRizbot-Md'
 // Wm
 global.packname = 'KRizbot-Md'
 global.author = 'By Partha'
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// Thumb & Image random
 /n/n/n
+/n/n/n
+/n/n/n
+/n/n/n
+/n/n/n 
+/n/n/n 
+/n/n/n
+/n/n/n 
+/n/n/n 
+/n/n/n
+/n/n/n 
+	
+
+
+
+ 
+
 global.thumb = fs.readFileSync('./image/keyol.jpg')
 global.pp_video = fs.readFileSync('./image/keyol.mp4')
 
