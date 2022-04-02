@@ -36,17 +36,17 @@ global.sc = 'https://github.com/partha-wdjy/KRizbot-Md'
 // Wm
 global.packname = 'KRizbot-Md'
 global.author = 'By Partha'
-/n/n/n
-/n/n/n
-/n/n/n
-/n/n/n
-/n/n/n 
-/n/n/n 
-/n/n/n
-/n/n/n 
-/n/n/n 
-/n/n/n
-/n/n/n 
+
+
+
+
+
+
+
+
+
+
+
 	
 
 
